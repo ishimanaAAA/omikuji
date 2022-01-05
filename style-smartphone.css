@@ -24,5 +24,6 @@ body{
     width: 100vw;
     height: 70px;
     z-index: 95;
+    color: linear-gradient(90deg,#ffc0cb,#fffaf0,#ffc0cb);
     text-align: center;
 }
