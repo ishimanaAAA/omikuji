@@ -1,0 +1,27 @@
+html {
+    font-size: 100%;
+  }
+
+body{
+    font-family: a-otf-ryumin-pr6n, serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 1.6rem;
+    background-image:url("images/background.jpg");
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+  
+.site-header{
+    background: #006207;
+    display: flex;
+    position: fixed;
+    justify-content: space-between;
+    width: 100vw;
+    height: 70px;
+    z-index: 95;
+}
