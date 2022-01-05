@@ -24,4 +24,5 @@ body{
     width: 100vw;
     height: 70px;
     z-index: 95;
+    text-align: center;
 }
