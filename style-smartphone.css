@@ -17,13 +17,13 @@ body{
 }
   
 .site-header{
-    background: #006207;
     display: flex;
     position: fixed;
     justify-content: space-between;
     width: 100vw;
     height: 70px;
     z-index: 95;
-    color: linear-gradient(90deg,#ffc0cb,#fffaf0,#ffc0cb);
+    background: linear-gradient(90deg,#ffc0cb,#fffaf0,#ffc0cb);
     text-align: center;
+    font-size: 24px;
 }
