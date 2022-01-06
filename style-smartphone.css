@@ -22,7 +22,7 @@ body{
     position: fixed;
     justify-content: center;
     width: 100vw;
-    height: 15vh;
+    height: 10vh;
     z-index: 95;
     background: linear-gradient(90deg,#ffc0cb,#fffaf0,#ffc0cb);
     text-align: center;
