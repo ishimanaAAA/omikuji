@@ -28,6 +28,18 @@ body{
     font-size: 10vw;
 }
 
+.text{
+    display: flex;
+    position: fixed;
+    justify-content: space-between;
+    width: 100vw;
+    height: 20vh;
+    z-index: 95;
+    text-align: center;
+    font-size: 5vw;
+    margin-top: 25vh
+}
+
 .omikuji-result{
     display: flex;
     position: fixed;
@@ -35,8 +47,7 @@ body{
     width: 100vw;
     height: 20vh;
     z-index: 95;
-    background: linear-gradient(#fffafa,#ffdab9);
     text-align: center;
-    font-size: 10vw;
-    margin-top: 25vh
+    font-size: 40vw;
+    margin-top: 30vh
 }
