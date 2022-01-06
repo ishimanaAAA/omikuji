@@ -52,3 +52,16 @@ body{
     font-size: 40vw;
     margin-top: 30vh;
 }
+
+.meigen{
+    display: flex;
+    position: fixed;
+    justify-content: center;
+    width: 100vw;
+    height: 20vh;
+    z-index: 95;
+    text-align: center;
+    font-size: 40vw;
+    margin-top: 80vh;
+}
+
