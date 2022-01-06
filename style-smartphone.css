@@ -8,6 +8,7 @@ body{
     font-weight: 300;
     font-size: 1.6rem;
     background-image:url("juken_template_omamori.jpg");
+    background-size: cover;
 }
 
 * {
@@ -25,7 +26,7 @@ body{
     z-index: 95;
     background: linear-gradient(90deg,#ffc0cb,#fffaf0,#ffc0cb);
     text-align: center;
-    font-size: 7vw;
+    font-size: 5vw;
 }
 
 .text{
