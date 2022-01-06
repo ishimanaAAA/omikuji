@@ -31,5 +31,17 @@
     <div class="omikuji-result">
       大吉
     </div>
+    <form><input type="button" value="今日の名言" onClick="meigen()"></form>
+    <script type="text/javascript">
+      function meigen() {
+	      rand = Math.floor(Math.random()*5);
+	      if (rand == 0) msg = "名言A";
+	      if (rand == 1) msg = "名言B";
+	      if (rand == 2) msg = "名言C";
+	      if (rand == 3) msg = "名言D";
+	      if (rand == 4) msg = "名言E";
+	      alert(msg);
+      }
+    </script>
   </body>
 </html>
