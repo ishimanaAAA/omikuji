@@ -20,7 +20,7 @@ body{
 .site-header{
     display: flex;
     position: fixed;
-    justify-content: space-between;
+    justify-content: center;
     width: 100vw;
     height: 15vh;
     z-index: 95;
