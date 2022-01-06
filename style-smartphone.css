@@ -21,9 +21,9 @@ body{
     position: fixed;
     justify-content: space-between;
     width: 100vw;
-    height: 70px;
+    height: 20vh;
     z-index: 95;
     background: linear-gradient(90deg,#ffc0cb,#fffaf0,#ffc0cb);
     text-align: center;
-    font-size: 24px;
+    font-size: 10vw;
 }
